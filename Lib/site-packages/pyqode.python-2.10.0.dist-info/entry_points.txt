@@ -1,0 +1,3 @@
+[pyqode_plugins]
+pyqode_python = pyqode.python.designer_plugin
+
