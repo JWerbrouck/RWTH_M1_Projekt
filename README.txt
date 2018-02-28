@@ -1,4 +1,4 @@
-This repository contains an adaptation of the IfcOpenShell TUEviewer (https://github.com/jakob-beetz/IfcOpenShellScriptingTutorial). The code was written within context of the M1 Project Architekturinformatik at RWTH Aachen. 
+This repository contains an adaptation of the IfcOpenShell TUEviewer (downloadable at https://github.com/jakob-beetz/IfcOpenShellScriptingTutorial). The code was written within context of the M1 Project Architekturinformatik at RWTH Aachen. 
 
 The project links IfcOpenShell with some Linked Data technologies, providing some 'hybrid' solution between EXPRESS ifc and Linked Data technologies (RDF, SPARQL, ...). Learning to code in Python and developing this project happened to be parallel (this is, let's say, my 'HelloWorld' program; so although the functionality is working more or less properly, the coding style could be much better (my apologies for this). 
 
